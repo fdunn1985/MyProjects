@@ -46,7 +46,7 @@ public class Sudoku extends JFrame
 	
 	public Sudoku()
 	{
-		//nothing here to look at
+
 	}
 	
 	public static void main(String[] args)
