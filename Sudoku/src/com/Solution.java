@@ -13,7 +13,7 @@ public class Solution
 	{
 		
 	}
-	
+	//Delilah is awesome!
 	public int[][] smallSquareSolution()
 	{
 		int[][] temp = new int[3][3]; 
